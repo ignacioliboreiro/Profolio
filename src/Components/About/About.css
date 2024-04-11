@@ -1,0 +1,57 @@
+.divAbout{
+    max-width: 1900px;
+}
+
+
+.h2About ,h2{
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h2About h4{
+    font-size: 20px;
+}
+.h2Title{
+    border-bottom: solid;
+}
+
+.about{  
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10rem;
+    margin-left: 20px;
+}
+
+
+.Titulo-Abuot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.descripcion{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.Habilidades, ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skills{
+    padding: 1rem 2rem;
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
+    font-size: 0.9rem;
+    background: rgba(235, 230, 230, 0.871);
+    border-radius: 5px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #0a0909;
+}
+
+.Habilidades, h3{
+    font-size: 30px;
+}

@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to left top, #ffffff, #eeeeee, #dddddd, #cccccc, #bcbcbc);
+    display: flex;
+}
+
+html{
+    scroll-behavior: smooth;
+}

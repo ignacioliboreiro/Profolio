@@ -1,0 +1,22 @@
+.Divnab{
+    max-width: 1900px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+
+.nav-li{
+    margin-right: 30px;
+    font-size: 18px;
+    list-style: none;
+}
+
+.nav-li a {
+    color: #000;
+    text-decoration: none;
+}
