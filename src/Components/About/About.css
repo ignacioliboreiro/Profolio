@@ -1,14 +1,19 @@
 .divAbout{
     max-width: 1900px;
+    background-color:#2D2E32 ;
+    padding-bottom: 100px;
+    padding-top: 100px;
 }
 
 
 .h2About ,h2{
+    margin-bottom: 40px;
     font-size: 40px;
     display: flex;
     align-items: center;
     flex-direction: column;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
 }
 .h2About h4{
     font-size: 20px;
@@ -33,6 +38,9 @@
 .descripcion{
     font-family: monospace;
     font-size: 15px;
+    color: #ffffff;
+    line-height: 22px;
+    font-size: 1rem;
 }
 
 .Habilidades, ul{
@@ -45,13 +53,14 @@
     margin-bottom: 1.5rem;
     margin-right: 1.5rem;
     font-size: 0.9rem;
-    background: rgba(235, 230, 230, 0.871);
+    background: rgba(0, 0, 0, 0.871);
     border-radius: 5px;
     font-weight: 600;
     text-decoration: none;
-    color: #0a0909;
+    color: #ffffff;
 }
 
 .Habilidades, h3{
     font-size: 30px;
+    color: #ffffff;
 }

@@ -1,0 +1,11 @@
+.proyectos{
+    display: grid;
+    gap: 50px 100px;
+}
+.proyectos{
+    background-color: #282828;
+}
+
+.proyectos h1 {
+    color: rgb(255, 255, 255);
+}
